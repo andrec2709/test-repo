@@ -4,4 +4,4 @@ This is from a fork!
 
 This is a new commit!
 
-Another change from a fork!
+Another change, this time from the original repository.
